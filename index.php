@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Chapter One</title>
+<title>Chapter One...</title>
 
     <link href="bootstrap-3.3.6-dist/css/bootstrap.min.css" rel="stylesheet" />
     <link href="bootstrap-3.3.6-dist/css/bootstrap-theme.min.css" rel="stylesheet" />
