@@ -14,22 +14,21 @@
     <style>
     </style>
 
-    <script>/*
-        var fade = 0;
+    <script>
         $(window).scroll(function() {
-            $(".fade").animate({
+            $(".poopy").animate({
                 width: width - 1,
                 height: height - 1,
                 opacity: opacity - .01;
             }, 1000);
-        });*/
+        });
     </script>
 
 </head>
 
 <body>
 
-<div class="fade">
+<div class="poopy">
 <p>
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras pharetra nisl non orci tincidunt aliquet. Donec bibendum auctor commodo. Mauris auctor vehicula metus, ut interdum magna ornare non. Nunc eget mattis ipsum. Integer ut eros feugiat, venenatis est ut, tristique lorem. Morbi nec sem in risus venenatis pretium facilisis nec est. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc sagittis tortor at turpis fringilla sollicitudin. Phasellus sagittis orci et sapien consectetur, semper dictum orci sodales. Nunc volutpat eget dolor a porttitor. Donec dictum varius eros. Vestibulum pellentesque lorem felis, et maximus leo suscipit in. Aliquam vitae sapien vel justo mollis fringilla at ut velit. Nam dictum purus ut nunc tincidunt malesuada. Donec rhoncus vehicula purus nec lobortis.
     Vivamus interdum eros eu tempus tincidunt. Curabitur accumsan augue ac elit rhoncus sagittis. Vestibulum et lacus metus. Donec ullamcorper neque id ligula tempor, eget congue eros pharetra. Morbi lacinia quis mauris quis pulvinar. Maecenas quis sagittis nisi. Nam euismod ligula a nulla mollis, id posuere mauris hendrerit.
