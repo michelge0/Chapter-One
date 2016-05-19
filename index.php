@@ -14,7 +14,7 @@
     <style>
     </style>
 
-    <script>
+    <script>/*
         var fade = 0;
         $(window).scroll(function() {
             $(".fade").animate({
@@ -22,7 +22,7 @@
                 height: height - 1,
                 opacity: opacity - .01;
             }, 1000);
-        });
+        });*/
     </script>
 
 </head>
