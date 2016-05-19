@@ -15,14 +15,13 @@
     </style>
 
     <script>
-        /*
         $(window).scroll(function() {
             $(".poopy").animate({
                 width: width - 1,
                 height: height - 1,
                 opacity: opacity - .01;
             }, 1000);
-        });*/
+        });
     </script>
 
 </head>
