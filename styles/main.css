@@ -1,0 +1,14 @@
+
+body {
+    overflow: hidden;
+}
+.sp-container p {
+    position: absolute;
+    width: 100%;
+    font-size: 18px;
+    padding-top: 15%;
+    padding-right: 20%;
+    padding-left: 20%;
+
+    transform: scale(1);
+}
