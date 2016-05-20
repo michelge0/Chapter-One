@@ -6,7 +6,7 @@
 <link href="bootstrap-3.3.6-dist/css/bootstrap.min.css" rel="stylesheet" />
 <link href="bootstrap-3.3.6-dist/css/bootstrap-theme.min.css" rel="stylesheet" />
 <script src="jquery-1.12.1.js"></script>
-<script src="scripts/transition.js"></script>
+<script src="scripts/script.js"></script>
 <link rel="stylesheet" type="text/css" href="styles/main.css" />
 </head>
 
@@ -14,21 +14,16 @@
 <div class="row header">
 	<h2> Chapter One </h2>
 </div>
-<div class="button-banner">
-	<div class="row">
-		<div class="col-sm-4">
-	        <span onmouseover="newCaption(0)" class="link-effect">About</span>
-		</div>
-		<div class="col-sm-4">
-	        <a href="chapter-one.php" onmouseover="newCaption(1)" class="link-effect">Begin</a>
-		</div>
-		<div class="col-sm-4">
-	        <span onmouseover="newCaption(2)" class="link-effect">Author</span>
-		</div>
+<footer class="row button-banner">
+	<div class="col-sm-4">
+        <button class="link-effect">About</button>
 	</div>
-	<div class="row">
-		<p class="caption"></p>
+	<div class="col-sm-4">
+        <a href="google.com" class="link-effect">Begin</a>
 	</div>
-</div>
+	<div class="col-sm-4">
+        <button class="link-effect">Author</button>
+	</div>
+</footer>
 </body>
 </html>
